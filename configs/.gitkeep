@@ -1,0 +1,6 @@
+git add assets/.gitkeep
+git commit -m "Add placeholder for assets folder"
+git push
+git add configs/.gitkeep
+git commit -m "Add placeholder for configs folder"
+git push
