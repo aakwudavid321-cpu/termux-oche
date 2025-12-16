@@ -1,4 +1,6 @@
-*.apk
+*.log
+*.tmp
+*.swp*.apk
 *.log
 *.tmp
 *.swp
